@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">room4p_gr1</string>
+    <string-array name="kategorie">
+        <item>logiczne</item>
+        <item>startegiczne</item>
+        <item>imprezowe</item>
+        <item>słowne</item>
+        <item>klasyczne</item>
+    </string-array>
+</resources>
